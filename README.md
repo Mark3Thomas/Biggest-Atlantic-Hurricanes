@@ -21,6 +21,7 @@ Here is a sample of the data contained in the spreadsheet:
 This project utilizes the **`SWITCH`** function to streamline complex logic, replacing older, messier nested `IF` statements.
 
 In this context, `SWITCH` is likely used to automatically determine the **Wind Speed Range** or a **Severity Label** based on the Hurricane Category.
+
 <img width="480" height="180" alt="image" src="https://github.com/user-attachments/assets/10632292-66ac-43e9-987d-21e959a1f5d3" />
 
 
