@@ -30,6 +30,7 @@ In this context, `SWITCH` is likely used to automatically determine the **Wind S
 
 **Example Logic:**
 Instead of writing multiple `IF` statements, the `SWITCH` function evaluates the Category (e.g., cell `D4`) and returns the corresponding Wind Speed:
+
 =SWITCH(D4, 1, 95, 2, 110, 3, 129, 4, 156, 5, "157 and over","Unknown")
 
 
