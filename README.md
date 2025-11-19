@@ -13,7 +13,9 @@ The main dataset includes the following key metrics for each hurricane:
 
 ## 🌪️ Data Preview
 Here is a sample of the data contained in the spreadsheet:
-<img width="843" height="473" alt="image" src="https://github.com/user-attachments/assets/95194a88-83a9-4374-8f1b-1c1e60dc53f6" />
+
+<img width="700" height="500" alt="image" src="https://github.com/user-attachments/assets/20bd1b7f-8c40-48cd-a54d-fb9ea225c73a" />
+
 
 ## ⚡ Key Excel Features
 
