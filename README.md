@@ -13,6 +13,8 @@ The main dataset includes the following key metrics for each hurricane:
 
 ## 🌪️ Data Preview
 Here is a sample of the data contained in the spreadsheet:
+<img width="843" height="472" alt="image" src="https://github.com/user-attachments/assets/c6763461-35b5-4080-892b-fb63e735aef0" />
+
 
 | Name | Start Date | Damage (USD Millions) | Category | Max Wind Speed (mph) |
 | :--- | :--- | :--- | :--- | :--- |
